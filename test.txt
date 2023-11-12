@@ -1,3 +1,5 @@
-Devops batch-5 is the best batch forever.
+echo "Devops batch-5 is the best batch forever."
+
+
 
 
